@@ -1,5 +1,10 @@
 # 💫 About Me:
-Name :Waliur Rahaman <br>Department : Educational Technology and Engineering<br>Varsity : University of Frontier Technology, Bangladesh.<br>“Passionate about Education and Technology. I love exploring how innovative tech can make learning smarter, easier, and more engaging.”
+Name :Waliur Rahaman <br>Department : Educational Technology and Engineering<br>Varsity : University of Frontier Technology, Bangladesh.<br>“Enthusiastic learner with a background in Computer Science and a growing specialization in Educational
+Technology. Passionate about designing interactive, tech-integrated learning environments through
+programming and curriculum innovation. Skilled in developing digital content, coding educational tools, and
+integrating platforms such as LMS and mobile applications to support personalized learning. Interested in
+bridging the gap between technology and pedagogy by building engaging, accessible, and learner-friendly
+solutions that improve both teaching and student outcomes.”
 
 
 ## 🌐 Socials:
