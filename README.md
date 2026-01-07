@@ -1,30 +1,11 @@
 <h1 align="center">🚀 Waliur Rahaman</h1>
-
-<h3 align="center">
-Educational Technology Engineer | Computer Science Graduate
-</h3>
+<h3 align="center">Educational Technology Engineer | Computer Science | Digital Learning Innovator</h3>
 
 <p align="center">
-  <i>Where Technology Meets Pedagogy to Build the Future of Learning</i>
+  <i>“Where Technology Meets Pedagogy to Build the Future of Learning.”</i>
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &pause=1000
-    &color=00F7FF
-    &center=true
-    &vCenter=true
-    &width=700
-    &lines=Educational+Technology+Engineer;
-    Computer+Science+Graduate;
-    Data+Visualization+%7C+Python+%7C+Excel;
-    Designing+Interactive+Learning+Systems;
-    Passionate+About+EdTech+Innovation" />
-</p>
-
-
+---
 ## 💫 About Me
 
 🎓 **Department:** Educational Technology & Engineering  
