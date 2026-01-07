@@ -1,32 +1,109 @@
-# 💫 About Me:
-Name :Waliur Rahaman <br>Department : Educational Technology and Engineering<br>Varsity : University of Frontier Technology, Bangladesh.<br>“Enthusiastic learner with a background in Enthusiastic Computer Science graduate with a growing specialization in Educational Technology. Passionate about designing interactive, tech-integrated learning environments through programming and curriculum innovation. Skilled in digital content development, educational tool coding, data visualization, map design, and Excel-based analysis. Experienced in integrating LMS and mobile applications to support personalized, engaging, and accessible learning solutions that enhance teaching effectiveness and student outcomes.”
+<h1 align="center">🚀 Waliur Rahaman</h1>
+<h3 align="center">Educational Technology Engineer | Computer Science | Digital Learning Innovator</h3>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ska.2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shovo_kumar1010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shovo-kumar-acharjo-1591192a8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CapturewithS.k.a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarshuvo605@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ska-shovo&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ska-shovo&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ska-shovo&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ska-shovo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ska-shovo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <i>“Where Technology Meets Pedagogy to Build the Future of Learning.”</i>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ska-shovo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Snake Game Repo View -->
+## 💫 About Me
+
+🎓 **Department:** Educational Technology & Engineering  
+🏫 **University:** University of Frontier Technology, Bangladesh  
+
+I am a **Computer Science graduate** with a growing specialization in **Educational Technology**, passionate about creating **interactive, tech-integrated learning environments**.  
+
+My work focuses on blending **programming, curriculum innovation, and data-driven design** to build learner-friendly, accessible, and impactful educational solutions.
+
+🔹 Digital Content Development  
+🔹 Educational Tool & App Development  
+🔹 **Data Visualization & Map Design**  
+🔹 **Excel-based Analysis & Reporting**  
+🔹 LMS & Mobile Learning Integration  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://facebook.com/ska.2003"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/shovo_kumar1010"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shovo-kumar-acharjo-1591192a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://youtube.com/@CapturewithS.k.a"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:kumarshuvo605@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Programming & Development
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+### 📱 App & Web
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 📊 Data • Design • Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ska-shovo&theme=neon&show_icons=true"/>
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Ska-shovo&theme=neon"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ska-shovo&layout=compact&theme=neon"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ska-shovo&theme=radical&margin-w=10"/>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🔝 Top Contributions
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Ska-shovo&limit=5&theme=dark"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=Ska-shovo&icon=0&color=0"/>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
 </div>
+
+⭐ *If you like my work, consider following or starring my repositories!* ⭐
