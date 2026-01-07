@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name : Shovo Kumar Acharjo <br>Department : Educational Technology and Engineering<br>Varsity : University of Frontier Technology, Bangladesh.<br>“Passionate about Education and Technology. I love exploring how innovative tech can make learning smarter, easier, and more engaging.”
+Name :Waliur Rahaman <br>Department : Educational Technology and Engineering<br>Varsity : University of Frontier Technology, Bangladesh.<br>“Passionate about Education and Technology. I love exploring how innovative tech can make learning smarter, easier, and more engaging.”
 
 
 ## 🌐 Socials:
